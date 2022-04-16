@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210.217" height="68.213" viewBox="0 0 210.217 68.213">
+  <g id="Logo" transform="translate(0 1)">
+    <path id="Path_2" data-name="Path 2" d="M5,0H205.217a5,5,0,0,1,5,5V63.213a5,5,0,0,1-5,5H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(0 -1)"/>
+    <path id="camera-solid" d="M50.108,42.961V71.147a4.7,4.7,0,0,1-4.7,4.7H4.7a4.7,4.7,0,0,1-4.7-4.7V42.961a4.7,4.7,0,0,1,4.7-4.7H13.31l1.2-3.22A4.691,4.691,0,0,1,18.908,32H31.19a4.691,4.691,0,0,1,4.394,3.044l1.214,3.22H45.41A4.7,4.7,0,0,1,50.108,42.961ZM36.8,57.054A11.744,11.744,0,1,0,25.054,68.8,11.753,11.753,0,0,0,36.8,57.054Zm-3.132,0a8.612,8.612,0,1,1-8.612-8.612A8.625,8.625,0,0,1,33.666,57.054Z" transform="translate(23.268 -22.34)" fill="#fff" stroke="#fff" stroke-width="1"/>
+    <text id="Photonic_Photography" data-name="Photonic
+Photography" transform="translate(79.95 31.553)" fill="#fff" stroke="#fff" stroke-width="1" font-size="20" font-family="Roboto-Condensed, Roboto" letter-spacing="0.03em"><tspan x="0" y="0">Photonic</tspan><tspan x="0" y="20">Photography</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,87 @@
+.nav {
+    display: flex;
+    flex-direction: column;
+    margin: 0px 0px 1rem 0px;
+    background-color: #292929;
+    height: 100px;
+    justify-content: center;
+}
+
+.nav-inner-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-inner-bottom {
+    vertical-align: middle;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 999;
+}
+
+.sticky-2 {
+    padding-top: 100px;
+}
+
+.nav ul li {
+    list-style: none;
+    padding: 0.5rem 1rem;
+}
+.nav ul li:hover {
+    background-color: red;
+}
+
+.nav ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.nav ul {
+    display: flex;
+}
+
+
+.logo img {
+    height: 38px;
+    /* padding: ; */
+    margin-left: 120px;
+    border-radius: 10px;
+}
+
+.nameRole {
+    font-size: 18px;
+}
+
+.links {
+    max-width: 50%;
+    /* background-color: red; */
+    margin-left: 104px;
+}
+
+.right-header {
+    margin-right: 120px;
+    color: #fff;
+    min-width: 12%;
+    /* background-color: blue; */
+}
+
+.header-icon a{
+    color: white;
+    text-decoration: none;
+}
+
+.userRoleIcon {
+    background-color: #FC7373;
+    padding: 2px 28px;
+    border-radius: 75px;
+    color: white;
+}
+
+.signOutButton {
+    color: #fff;
+}

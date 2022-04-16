@@ -1,0 +1,89 @@
+.outerwrapper {
+    margin: auto;
+    max-width: 1024px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background: #F9F9F9;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.9);
+    padding: 30px 2rem 30px 1rem;
+    border-radius: 18px;
+}
+
+label,
+input[type="text"],
+input[type="number"],
+input[type="file"],
+input[type="password"] {
+    display: block;
+    padding: 0.5rem;
+}
+
+input[type="text"],
+input[type="number"],
+input[type="password"],
+textarea {
+    width: 400px;
+    margin-left: 0.5rem;
+}
+
+input[type="file"] {
+    font-size: 1rem;
+    border-radius: 5px;
+}
+
+textarea {
+    height: 6rem;
+}
+
+.form-button {
+    width: 100%;
+    font-size: 1.2rem;
+    border-radius: 8px;
+    margin: 1.5rem 2.5rem 1.5rem 0.5rem;
+    background: #2CB94D;
+    color: #fff;
+    border: none;
+    display: block;
+    padding: 0.5rem;
+}
+
+img.image {
+    max-width: 150px;
+}
+
+/* Checkbox Styles */
+span.smallText {
+    font-size: 0.8rem;
+    color: rgba(50, 50, 50, 1);
+}
+
+.container-inner {
+    margin-top: 10px;
+}
+
+.container-inner p {
+    margin-bottom: 8px;
+}
+
+input[type='checkbox'] {
+    margin-right: 10px;
+}
+
+.categoriescheckbox {
+    margin-left: 10px;
+}
+
+.categorylabel {
+    margin: 10px 0 5px;
+}
+
+.error {
+    padding: 10px;
+    border: 1.5px solid rgba(240, 14, 18, 0.93);
+    border-radius: 4px;
+    margin-top: 15px;
+}
+
+.errormsg {
+    color: red;
+}
