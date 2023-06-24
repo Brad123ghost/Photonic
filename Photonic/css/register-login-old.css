@@ -1,0 +1,137 @@
+.nav {
+    margin: 0px;
+}
+
+.wrapper {
+    max-width: 100%;
+    padding: 0px;
+}
+
+.banner {
+    background-position: 0px 0px;
+    background-image: linear-gradient(to bottom, 
+        #F5F5F5 120px, #D8D7D7);
+    height: 170px;
+}
+
+.banner h1 {
+    font-size: 55px;
+}
+
+div.col-2 {
+    background-color: greenyellow;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+}
+
+.loginform {
+    background-color: aqua;
+}
+
+.registerform {
+    background-color: pink;
+}
+
+.form-container {
+    /* background: #fff; */
+    /* margin: 0 auto; */
+    width: 700px;
+    height: 400px;
+    position:inherit;
+    padding: 20px 0;
+    /* margin: auto; */
+    /* box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.3); */
+    border-radius: 9px;
+}
+
+.form-container span {
+    font-weight: bold;
+    padding: 0 10px;
+    color: #555;
+    cursor: pointer;
+    width: 100px;
+    display: inline-block;
+}
+
+.form-btn {
+    display: inline-block;
+    font-size: 2rem;
+}
+
+.form-container form {
+    max-width: 420px;
+    padding: 0 20px;
+    position: absolute;
+    top: 80px;
+    transition: transform 1s;
+}
+
+form input {
+    width: 100%;
+    height: 30px;
+    margin: 10px 0;
+    padding: 0 10px;
+    border: 1px solid #ccc;
+    border-radius: 0.25rem;
+}
+
+form .btn {
+    width: 100%;
+    border: none;
+    cursor: pointer;
+    margin: 10px 0;
+}
+
+form .btn:focus {
+    outline: none;
+}
+
+#loginForm {
+    /* margin: 0 auto; */
+    margin-top: 15%;
+}
+
+.loginemail,
+.loginpsw {
+    display: flex;
+    align-items: center;
+}
+
+.loginpsw input {
+    margin-top: 2px;
+}
+
+.loginpsw i{
+    /* background-color: yellow; */
+    /* height: 30px; */
+    margin-top: 2px;
+    /* padding: 10px; */
+    /* padding-right: 10px; */
+}
+
+
+form a {
+    font-size: 12px;
+}
+
+#indicator {
+    width: 100px;
+    border: none;
+    background: #FFC520;
+    height: 3px;
+    margin-top: 8px;
+    transform: translateX(100px);
+    transition: transform 1s;
+}
+
+input[type="text"],
+input[type="password"] {
+    margin-bottom: 2px;
+}
+
+.errormsg {
+    color: red;
+    padding: 0px;
+    border: 0px;
+}
